@@ -7,14 +7,21 @@ function createReadMe(answers) {
 
 ## Table of Contents ![badge](https://img.shields.io/badge/license-${answers.licensing}-blue)
 
-[x] [Description](#description)
-[x] [Installation](#installation)
-[x] [Toolkit](#toolkit)
-[x] [Licensing](#licensing)
-[x] [Usage](#usage)
-[x] [Licensing](#tests)
-[x] [Contributing](#contributing)
-[x] [Questions](#questions)
+* [x] [Description](#description)
+
+* [x] [Installation](#installation)
+
+* [x] [Toolkit](#toolkit)
+
+* [x] [Licensing](#licensing)
+
+* [x] [Usage](#usage)
+
+* [x] [Licensing](#tests)
+
+* [x] [Contributing](#contributing)
+
+* [x] [Questions](#questions)
 
 ### Description <a name="description"></a>
 
