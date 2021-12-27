@@ -1,0 +1,12 @@
+{
+  "name": "readme-generator",
+  "author": "Tri Nguyen",
+  "license": "MIT",
+  "version": "1.0.0",
+  "description": "A tool to generate a README.md for all projects with node.js and inquirer.",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "inquirer": "^6.5.2",
+    "utils": "^0.3.1"
+  }
+}
