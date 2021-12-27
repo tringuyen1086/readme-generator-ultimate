@@ -34,6 +34,7 @@ node index.js
 
 Large file, so see here: [Video of demo](https://vimeo.com/660478517) or reference in the assets file.
 
+https://user-images.githubusercontent.com/71200950/147502291-8f5a13f6-d52b-40be-8d7f-fe81e06f24ce.mp4
 
 ### User Story
 
