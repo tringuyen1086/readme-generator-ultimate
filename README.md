@@ -30,6 +30,9 @@ node index.js
 
 ### Demo
 
+![readme-demo](./assets/readme-demo.png)
+
+Large file, so see here: [Video of demo](https://vimeo.com/660478517) or reference in the assets file.
 
 
 ### User Story
