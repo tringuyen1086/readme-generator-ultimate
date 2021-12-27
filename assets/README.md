@@ -4,14 +4,21 @@
 
 ## Table of Contents ![badge](https://img.shields.io/badge/license-MIT-blue)
 
-[x] [Description](#description)
-[x] [Installation](#installation)
-[x] [Toolkit](#toolkit)
-[x] [Licensing](#licensing)
-[x] [Usage](#usage)
-[x] [Licensing](#tests)
-[x] [Contributing](#contributing)
-[x] [Questions](#questions)
+* [x] [Description](#description)
+
+* [x] [Installation](#installation)
+
+* [x] [Toolkit](#toolkit)
+
+* [x] [Licensing](#licensing)
+
+* [x] [Usage](#usage)
+
+* [x] [Licensing](#tests)
+
+* [x] [Contributing](#contributing)
+
+* [x] [Questions](#questions)
 
 ### Description <a name="description"></a>
 
@@ -33,7 +40,7 @@ This application is covered by the MIT license.
 
 ### Usage <a name="usage"></a> 
 
-Fair use 
+Fair Use 
 
 ### Tests  <a name="tests"></a> 
 
